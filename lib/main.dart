@@ -1,3 +1,9 @@
+/*
+ * MIT Non-Commercial License (MIT-NC)
+ * Copyright (c) 2025 Hozefa Khety
+ * Licensed under the MIT-NC License. See LICENSE file for details.
+ */
+
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
